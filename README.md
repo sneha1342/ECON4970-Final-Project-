@@ -76,10 +76,3 @@ The descriptive table depicts how risk score for money laundering is distributed
 2. Download the ```Big_Black_Money_Dataset.csv``` from Kaggle
 3. Place the CSV file in the cloned repository
 4. Open and run ```Final Project.R``` in RStudio
-
-
-### Outside References - 
-1. https://africacenter.org/publication/wildlife-poaching-africas-surging-trafficking-threat/\
-2. https://www.sciencedirect.com/science/article/pii/S0261560615002156?via%3Dihub
-3. https://www.reuters.com/article/world/china-breaks-up-64-billion-underground-banking-state-media-idUSKCN0T910J/
-4. https://www.globalpolicy.org/en/node/510
